@@ -1,0 +1,133 @@
+	.mediaViewInfo {
+		--web-view-name: index.html;
+		--web-view-id: indexhtml;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: indexhtml;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#indexhtml {
+		position: absolute;
+		width: 1920px;
+		height: 924px;
+		background-color: rgba(244,244,244,1);
+		overflow: hidden;
+		--web-view-name: index.html;
+		--web-view-id: indexhtml;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	#pills {
+		position: absolute;
+		width: 713.077px;
+		height: 713.077px;
+		left: -257.539px;
+		top: 420.461px;
+		overflow: visible;
+	}
+	#prescription {
+		position: absolute;
+		width: 696.028px;
+		height: 696.028px;
+		left: 1456.986px;
+		top: 461.986px;
+		overflow: visible;
+	}
+	#stethoscope {
+		position: absolute;
+		width: 661.478px;
+		height: 661.478px;
+		left: -108.739px;
+		top: -264.739px;
+		overflow: visible;
+	}
+	#vitamins {
+		position: absolute;
+		width: 721.322px;
+		height: 721.322px;
+		left: 1457.339px;
+		top: -190.661px;
+		overflow: visible;
+	}
+	#ComplIoT_q {
+		left: 481px;
+		top: 329px;
+		position: absolute;
+		overflow: visible;
+		width: 959px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 190px;
+		color: rgba(66,65,65,1);
+	}
+	#Never_forget_again {
+		left: 761px;
+		top: 596px;
+		position: absolute;
+		overflow: visible;
+		width: 399px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 40px;
+		color: rgba(66,65,65,1);
+	}
+	#logodark-01 {
+		position: absolute;
+		width: 193px;
+		height: 213px;
+		left: 864px;
+		top: 170px;
+		overflow: visible;
+	}
+	#Rectangle_1 {
+		fill: rgba(212,159,128,1);
+	}
+	.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 707px;
+		height: 110px;
+		left: 607px;
+		top: 700px;
+	}
+	#Learn_more_ {
+		left: 808px;
+		top: 720px;
+		position: absolute;
+		overflow: visible;
+		width: 305px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 50px;
+		color: rgba(244,244,244,1);
+	}
+	#ComplIoT_q {
+		left: 481px;
+		top: 329px;
+		position: absolute;
+		overflow: visible;
+		width: 959px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: 900;
+		font-size: 190px;
+		color: rgba(66,65,65,1);
+	}

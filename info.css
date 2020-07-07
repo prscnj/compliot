@@ -1,0 +1,70 @@
+	.mediaViewInfo {
+		--web-view-name: info.html;
+		--web-view-id: infohtml;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: infohtml;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#infohtml {
+		position: absolute;
+		width: 1920px;
+		height: 924px;
+		background-color: rgba(244,244,244,1);
+		overflow: hidden;
+		--web-view-name: info.html;
+		--web-view-id: infohtml;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	#logodark-01 {
+		position: absolute;
+		width: 119px;
+		height: 131px;
+		left: 1779px;
+		top: 26px;
+		overflow: visible;
+	}
+	#ID125000 {
+		left: 84px;
+		top: 56px;
+		position: absolute;
+		overflow: visible;
+		width: 740px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: 900;
+		font-size: 190px;
+		color: rgba(66,65,65,1);
+	}
+	#People_die_from_Medication_Non {
+		left: 85px;
+		top: 331px;
+		position: absolute;
+		overflow: visible;
+		width: 1260px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 40px;
+		color: rgba(66,65,65,1);
+	}
+	#ID022-pills {
+		position: absolute;
+		width: 512px;
+		height: 512px;
+		left: 1365px;
+		top: 419px;
+		overflow: visible;
+	}
